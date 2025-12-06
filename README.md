@@ -5,6 +5,7 @@ GithubCLI is a simple CLI tool to fetch github users data and repository using t
 
 ```
 git clone https://github.com/darknessmalware/GithubCLI.git
+cd GithubCLI
 go get .
 ```
 
